@@ -51,8 +51,8 @@ Follow these steps to run the project locally:
 
 **Clone the repository**  
    ```bash
-   git clone https://github.com/Ankit-webtech/guesthouse.git
-   cd guesthouse
+   git clone https://github.com/Ankit-webtech/Geusthouse-innobyte.git
+   cd Geusthouse-innobyte
 
 
 ## Install dependencies
